@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Merdan</h1>
 <h3 align="center">I am a software engineering student with a focus on web development. Proficient in JavaScript, React, Python, and C#. Always seeking new challenges and opportunities to improve my skills. Follow me on GitHub to see my latest projects and contributions.</h3>
 
-- 🌱 I’m currently learning **ReactJs**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
